@@ -1,0 +1,62 @@
+@font-face {
+    font-family: 'UniSansHeavyCAPS';
+    src: url('UniSansHeavyCAPS.eot');
+    src: url('UniSansHeavyCAPS.eot') format('embedded-opentype'),
+         url('UniSansHeavyCAPS.woff2') format('woff2'),
+         url('UniSansHeavyCAPS.woff') format('woff'),
+         url('UniSansHeavyCAPS.ttf') format('truetype'),
+         url('UniSansHeavyCAPS.svg#UniSansHeavyCAPS') format('svg');
+}
+
+.container {
+    background: #fff;
+}
+
+body {
+    background: url(../img/texture.png);
+}
+
+
+
+
+
+#first {
+    background: #000;
+    color: #fff;
+}
+
+#zag {
+    font-family: "UniSansHeavyCAPS";
+    color: #DCA517;
+    font-size: 50px;
+}
+
+#text1 {
+    font-size: 22px;
+}
+
+#section1 p {
+    text-align: center;
+}
+
+.form-control {
+    width: 300px;
+}
+
+.btn-group-lg > .btn, .btn-lg {
+    font-size: 34px;
+}
+
+label {
+    margin-right: 220px;
+}
+
+footer {
+    background: #898989;
+    margin-top: 100px;
+    padding-top: 30px;
+}
+
+a {
+    color: #000;
+}
